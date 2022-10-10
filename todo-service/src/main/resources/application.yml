@@ -1,6 +1,6 @@
 spring:
-#  datasource:
-#    url: jdbc:h2:file:~/data/todo
+  datasource:
+    url: jdbc:h2:file:~/data/todo
   jpa:
     hibernate:
       ddl-auto: update
